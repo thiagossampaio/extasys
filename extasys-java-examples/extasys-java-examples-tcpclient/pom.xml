@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>com.extasys</groupId>
 		<artifactId>extasys-java-examples</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>3.0.2</version>
 	</parent>
 	<packaging>jar</packaging>
 	<artifactId>extasys-java-examples-tcpclient</artifactId>

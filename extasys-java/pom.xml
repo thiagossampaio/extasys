@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>com.extasys</groupId>
 		<artifactId>extasys</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
+		<version>3.0.2</version>
 	</parent>
 
 	<artifactId>extasys-network</artifactId>	
